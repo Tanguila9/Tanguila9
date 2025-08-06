@@ -10,6 +10,13 @@ Angola 🇦🇴 | I speak english and portuguese
 ## Projects
 https://github.com/Tanguila9/linear_regression_with_python
 
+## Social media
+## 📱 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danieltanguila)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/danielgouveiatanguila)
+
+
 ## Olá! Eu sou o Grande Daniel Tanguila
 
 Estudante de Eletrônica e Telecomunicações  
