@@ -7,6 +7,9 @@ I am also a self-taught programmer, working with backend (python, php), arduino,
 I like to build from scratch
 Angola 🇦🇴 | I speak english and portuguese
 
+## Projects
+https://github.com/Tanguila9/linear_regression_with_python
+
 ## Olá! Eu sou o Grande Daniel Tanguila
 
 Estudante de Eletrônica e Telecomunicações  
@@ -21,6 +24,7 @@ Angola 🇦🇴 | Falo Português e Inglês
 - Python, C++, php 
 - PyTorch, pytorch_geometric, flask, pandas, arduino, ESP32
 
-## 📈 Meus Projetos
+## Meus Projetos
 
 Veja meus repositórios abaixo para conhecer o que tenho construído!
+https://github.com/Tanguila9/linear_regression_with_python
