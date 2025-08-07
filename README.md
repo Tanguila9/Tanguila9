@@ -11,9 +11,9 @@ Angola 🇦🇴 | I speak english and portuguese
 https://github.com/Tanguila9/linear_regression_with_python
 
 ## Social media
-## 📱 Connect with me
+## Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Daniel Tanguila)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-tanguila)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/danielgouveiatanguila)
 
 
