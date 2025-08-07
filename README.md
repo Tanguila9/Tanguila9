@@ -8,6 +8,7 @@ I like to build from scratch
 Angola 🇦🇴 | I speak english and portuguese
 
 ## Projects
+I work with a team, and actually i am the headmaster of IAs projects there where i built a chatbot SLM focused on our school (not very accurated) and a model that classifies the state of road based on the positions of cars.
 [https://github.com/Tanguila9/linear_regression_with_python](https://github.com/Tanguila9/linear_regression_with_python/tree/master)
 
 ## Social media
