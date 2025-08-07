@@ -13,7 +13,7 @@ https://github.com/Tanguila9/linear_regression_with_python
 ## Social media
 ## Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-tanguila)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-tanguila-413629336)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/danielgouveiatanguila)
 
 
