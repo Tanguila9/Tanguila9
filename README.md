@@ -30,4 +30,4 @@ Angola 🇦🇴 | Falo Português e Inglês
 - Python, C++, php 
 - PyTorch, pytorch_geometric, flask, pandas, arduino, ESP32
 
-##Veja meus repositórios abaixo para conhecer o que tenho construído!
+## Veja meus repositórios abaixo para conhecer o que tenho construído!
