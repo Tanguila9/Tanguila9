@@ -33,5 +33,4 @@ Angola 🇦🇴 | Falo Português e Inglês
 
 ## Meus Projetos
 
-Veja meus repositórios abaixo para conhecer o que tenho construído!
-[https://github.com/Tanguila9/linear_regression_with_python](https://github.com/Tanguila9/linear_regression_with_python/tree/master)
+#Veja meus repositórios abaixo para conhecer o que tenho construído!
