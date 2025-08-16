@@ -13,9 +13,9 @@ i work with a team of young people (we aren´t even 20) where i am the machine l
 ## Social media
 ## Connect with me
 
+[![E-mail](https://img.shields.io/badge/Fale%20comigo%20por%20e--mail-EA4335?logo=gmail&logoColor=white)](mailto:danielgouveiatanguiladenny@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-tanguila-413629336)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/danielgouveiatanguila)
-
 
 ## Olá! Eu sou o Grande Daniel Tanguila
 
